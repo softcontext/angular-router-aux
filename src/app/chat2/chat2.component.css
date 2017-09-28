@@ -1,0 +1,8 @@
+.chat {
+  background: #eee;
+  padding: 10px 10px 10px 10px;
+  width: 50%;
+  float: left;
+  display: block;
+  box-sizing: border-box;
+}
